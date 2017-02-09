@@ -4,7 +4,14 @@
     "repositoryName": "RaphaelSparK.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Raphael SparK"
+  },
+  "socialnetwork": {
+    "email": "raphael.spark@gmail.com",
+    "github": "https://github.com/RaphaelSparK"
+  },
   "theme": {
-    "name": "Casper"
+    "name": ""
   }
 }
